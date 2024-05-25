@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/jsped-test/static/css/main.b869c659.css",
+    "main.js": "/jsped-test/static/js/main.71ee4e2f.js",
+    "static/js/592.24d50c39.chunk.js": "/jsped-test/static/js/592.24d50c39.chunk.js",
+    "static/media/Pretendard-Black.woff": "/jsped-test/static/media/Pretendard-Black.8bad248bdb96c3377cbc.woff",
+    "static/media/Pretendard-ExtraBold.woff": "/jsped-test/static/media/Pretendard-ExtraBold.88651b953c5d967d1db9.woff",
+    "static/media/Pretendard-Bold.woff": "/jsped-test/static/media/Pretendard-Bold.dd56301118da9e158ce9.woff",
+    "static/media/Pretendard-SemiBold.woff": "/jsped-test/static/media/Pretendard-SemiBold.86ffe3f48b7881c55a2c.woff",
+    "static/media/Pretendard-Medium.woff": "/jsped-test/static/media/Pretendard-Medium.f0cc544dcc84cf9f03b3.woff",
+    "static/media/Pretendard-Light.woff": "/jsped-test/static/media/Pretendard-Light.d0646c81e7ffb919ebd1.woff",
+    "static/media/Pretendard-Regular.woff": "/jsped-test/static/media/Pretendard-Regular.21b4bbcb93a4b1214f7d.woff",
+    "static/media/Pretendard-ExtraLight.woff": "/jsped-test/static/media/Pretendard-ExtraLight.050334e61f5fd99dddd4.woff",
+    "static/media/Pretendard-Thin.woff": "/jsped-test/static/media/Pretendard-Thin.d3e53f3d68cbe18c8f70.woff",
+    "static/media/GasoekOne-Regular.ttf": "/jsped-test/static/media/GasoekOne-Regular.0e0a295f079926dc56da.ttf",
+    "static/media/Pretendard-Black.woff2": "/jsped-test/static/media/Pretendard-Black.a4a9c5efac034f021c8e.woff2",
+    "static/media/Pretendard-ExtraBold.woff2": "/jsped-test/static/media/Pretendard-ExtraBold.d96f7e46d4ca0cdd4912.woff2",
+    "static/media/Pretendard-Bold.woff2": "/jsped-test/static/media/Pretendard-Bold.14a8579db02dbe10e1c0.woff2",
+    "static/media/Pretendard-SemiBold.woff2": "/jsped-test/static/media/Pretendard-SemiBold.4eb0b2ea1a7a6cb1a342.woff2",
+    "static/media/Pretendard-Medium.woff2": "/jsped-test/static/media/Pretendard-Medium.a0797964917555a35cc4.woff2",
+    "static/media/Pretendard-Regular.woff2": "/jsped-test/static/media/Pretendard-Regular.78a54f1fe75272411bb2.woff2",
+    "static/media/Pretendard-Light.woff2": "/jsped-test/static/media/Pretendard-Light.76c4e0977ecfcfcb58e4.woff2",
+    "static/media/Pretendard-ExtraLight.woff2": "/jsped-test/static/media/Pretendard-ExtraLight.78e886701aa794247c35.woff2",
+    "static/media/Pretendard-Thin.woff2": "/jsped-test/static/media/Pretendard-Thin.450b58933971c5b135f4.woff2",
+    "static/media/jsped_logo_white.png": "/jsped-test/static/media/jsped_logo_white.a675f6e10fd51d0cd9a8.png",
+    "index.html": "/jsped-test/index.html",
+    "main.b869c659.css.map": "/jsped-test/static/css/main.b869c659.css.map",
+    "main.71ee4e2f.js.map": "/jsped-test/static/js/main.71ee4e2f.js.map",
+    "592.24d50c39.chunk.js.map": "/jsped-test/static/js/592.24d50c39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b869c659.css",
+    "static/js/main.71ee4e2f.js"
+  ]
+}
